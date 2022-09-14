@@ -1,9 +1,18 @@
-# LINK AKSES
-Masih pakai local server untuk linknya, kalau banyak yg akses akan dimatikan sementara
+# `LINK AKSES`
+Link API:  https://f034-34-126-159-119.ap.ngrok.io
 <br>
-Link:  https://f034-34-126-159-119.ap.ngrok.io
-# X-API-KEY : `RAHASIA`
+<b>Kalau</b> gak bisa, bisa pakai http://dimassfeb.my.id
+<br>
+# `HEADER`
+| Key  | Value          |
+| :--- | :---           |
+| X-API-KEY | `RAHASIA` |
+
 Untuk Header X-API-KEY kalian bisa isi valuenya: `RAHASIA`
+
+# Note:
+- Soal API KEY itu belum dibuat yg lebih privacy karena masih belajar. So kalo ada v2 nya akan dikasih tau
+- Nanti End Point GuestBook/Pinjam buku akan dibuat secepatnya
 
 # API Documentation
 
