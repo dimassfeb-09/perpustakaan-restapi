@@ -1,5 +1,5 @@
 # `LINK AKSES`
-Link API:  https://f034-34-126-159-119.ap.ngrok.io
+Link API:  https://33ad-34-126-159-119.ap.ngrok.io/
 <br>
 <b>Kalau</b> gak bisa, bisa pakai http://dimassfeb.my.id
 <br>
