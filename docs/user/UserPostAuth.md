@@ -4,9 +4,9 @@
     - Content-Type: `multipart/form-data`
     - Accept: `multipart/form-data`
     - Header:
-      | Header 	| Type     | Description                |
-      | :-------- | :------- | :------------------------- |
-      | `X-API-KEY` | `string` | **Required**. Your API key |
+      | Key  	    | Value     | Type     | Description                |
+      | :--------   | :----     | :------- | :------------------------- |
+      | `X-API-KEY` | `RAHASIA` | `string` | **Required**. Your API key |
     - Post Form:
       | Key 	| Value     | Description                |
       | :-------- | :------- | :------------------------- |
