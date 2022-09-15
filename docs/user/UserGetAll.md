@@ -12,22 +12,20 @@
          "code": 200,
          "status": "OK",
          "data": [
-           {
-             "id": "int",
-             "name": "string",
-             "username": "string",
-             "email": "string",
-             "level": "string",
-             "create_at": "datetime"
-           },
-           {
-             "id": "int",
-             "name": "string",
-             "username": "string",
-             "email": "string",
-             "level": "string",
-             "create_at": "datetime"
-          }
+            {
+              "id": 72,
+              "name": "Ilman",
+              "username": "ilman",
+              "email": "ilma@gmail.com",
+              "level": "Mahasiswa"
+            },
+            {
+              "id": 74,
+              "name": "Dimas",
+              "username": "dimas",
+              "email": "dimas@gmail.com",
+              "level": "mahasiswa"
+            },
         ]
       }
       ```

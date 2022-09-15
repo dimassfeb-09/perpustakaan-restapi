@@ -18,16 +18,15 @@
     - Response Body
       ```json
       {
-          "code": 200,
-          "status": "OK",
-          "data": {
-              "id": "int",
-              "name": "string",
-              "username": "string",
-              "email": "string",
-              "level": "string",
-              "create_at": "datetime"
-          }
+        "code": 200,
+        "status": "OK",
+        "data": {
+          "id": 82,
+          "name": "Buku Kita",
+          "username": "dimas123123",
+          "email": "qye@gmail.com",
+          "level": "mahasiswa"
+        }
       }
       ```
     - Response Error

@@ -12,13 +12,12 @@
           "code": 200,
           "status": "OK",
           "data": {
-              "id": "int",
-              "name": "string",
-              "username": "string",
-              "email": "string",
-              "level": "string",
-              "create_at": "datetime"
-          }
+              "id": 80,
+              "name": "Dimas",
+              "username": "abd098jn",
+              "email": "aASdas",
+              "level": "mahasiswa"
+            }
       }
       ```
     - Response Error

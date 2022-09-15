@@ -15,6 +15,20 @@
         | `password` | `string` | **Required**. Password    |
         | `email` | `string` | **Required**. Email          |
         | `level` | `string` | **Required**. Level `Mahasiswa/Staff` |
+    - Response Body
+      ```json
+        {
+            "code": 200,
+            "status": "OK",
+            "data": {
+                "id": 82,
+                "name": "Citayem Fesyen",
+                "username": "dimas123123",
+                "email": "qye@gmail.com",
+                "level": "mahasiswa"
+            }
+        }
+      ```
     - Response Error
         - Bad Not Found
       ```json
