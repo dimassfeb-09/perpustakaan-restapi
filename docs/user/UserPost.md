@@ -8,13 +8,13 @@
       | :-------- | :------- | :------------------------- |
       | `X-API-KEY` | `string` | **Required**. Your API key |
     - Post Form:
-        | Key 	| Value     | Description                |
+        | Key 	| Value     | Description                   |
         | :-------- | :------- | :------------------------- |
-        | `name` | `string` | **Required**. Full Name |
-        | `username` | `string` | **Required**. Username |
-        | `password` | `string` | **Required**. Password |
-        | `email` | `string` | **Required**. Email |
-        | `level` | `string` | **Required**. Level |
+        | `name` | `string` | **Required**. Full Name       |
+        | `username` | `string` | **Required**. Username    |
+        | `password` | `string` | **Required**. Password    |
+        | `email` | `string` | **Required**. Email          |
+        | `level` | `string` | **Required**. Level `Mahasiswa/Staff` |
     - Response Error
         - Bad Not Found
       ```json
