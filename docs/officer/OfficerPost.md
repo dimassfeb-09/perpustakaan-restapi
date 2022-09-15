@@ -7,26 +7,24 @@
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |
       | `X-API-KEY` | `string` | **Required**. Your API key |
-    - Body:
-      ```json
-      {
-              "name": "string",
-              "position": "string",
-              "phone": "string",
-              "address": "string"
-      }
-      ```
+    - Post Form Body:
+      | Header 	| Type     | Description                |
+      | :-------- | :------- | :------------------------- |
+      | `name` | `string` | **Required**. FulL Name |
+      | `position` | `string` | **Required**. Position |
+      | `phone` | `string` | **Required**. Phone |
+      | `address` | `string` | **Required**. Address |
     - Response Body
       ```json
       {
           "code": 200,
           "status": "OK",
           "data": {
-              "id": "int",
-              "name": "string",
-              "position": "string",
-              "phone": "string",
-              "address": "string"
+              "id": 1,
+              "name": "Ratu Elizabeth II",
+              "position": "staff",
+              "phone": "08239012313",
+              "address": "Jalan Inggris Ganti Pemimpin"
             }
       }
       ```

@@ -13,19 +13,21 @@
           "status": "OK",
           "data": [
             {
-              "id": "int",
-              "name": "string",
-              "category_id": "int",
-              "stock": "string",
-              "products_status": "string"
-            },
+              "id": 37,
+              "name": "Buku Kita",
+              "category_id": 6,
+              "stock": 10,
+              "products_status": "in_stock",
+              "img_url": "http://terminal.jpg"
+            }
             {
-              "id": "int",
-              "name": "string",
-              "category_id": "int",
-              "stock": "string",
-              "products_status": "string"
-            } 
+              "id": 37,
+              "name": "Buku Kita",
+              "category_id": 6,
+              "stock": 10,
+              "products_status": "in_stock",
+              "img_url": "http://terminal.jpg"
+            }
         ] 
       }
       ```

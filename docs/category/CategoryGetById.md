@@ -12,8 +12,8 @@
           "code": 200,
           "status": "OK",
           "data": {
-              "id": "int",
-              "name": "string"
+              "id": 1,
+              "name": "Kehidupan"
           }
       }
       ```

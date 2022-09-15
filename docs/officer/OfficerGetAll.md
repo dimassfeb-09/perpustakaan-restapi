@@ -13,18 +13,18 @@
           "status": "OK",
           "data": [
             {
-              "id": "int",
-              "name": "string",
-              "position": "string",
-              "phone": "string",
-              "address": "string"
+              "id": 1,
+              "name": "Rahmini",
+              "position": "staff",
+              "phone": "082312371231",
+              "address": "Jalan Mencari Jodoh"
             },
             {
-              "id": "int",
-              "name": "string",
-              "position": "string",
-              "phone": "string",
-              "address": "string"
+              "id": 2,
+              "name": "Ratu Elizabeth II",
+              "position": "staff",
+              "phone": "082312731213",
+              "address": "Jalan Mencari Surga"
             }   
         ] 
       }

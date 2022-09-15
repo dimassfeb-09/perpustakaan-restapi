@@ -13,12 +13,12 @@
           "status": "OK",
           "data": [
             {
-              "id": "int",
-              "name": "string"
+              "id": 1,
+              "name": "Kehidupan"
             },
             {
-              "id": "int",
-              "name": "string"
+              "id": 2,
+              "name": "Anak-Anak"
             }    
         ] 
       }

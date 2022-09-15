@@ -7,24 +7,25 @@
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |
       | `X-API-KEY` | `string` | **Required**. Your API key |
-    - Body:
-      ```json
-      {
-          "name": "string",
-          "position": "string",
-          "phone": "string",
-          "address": "string"
-      }
-      ```
+    - Post Form Body:
+      | Header 	| Type     | Description                |
+      | :-------- | :------- | :------------------------- |
+      | `name` | `string` | **Required**. FulL Name |
+      | `position` | `string` | **Required**. Position |
+      | `phone` | `string` | **Required**. Phone |
+      | `address` | `string` | **Required**. Address |
     - Response Body
       ```json
       {
           "code": 200,
           "status": "OK",
           "data": {
-              "id": "int",
-              "name": "string"
-          }
+              "id": 1,
+              "name": "Bjorkan NISM",
+              "position": "staff",
+              "phone": "0823123xxx",
+              "address": "Jalan Hackel Nganggur"
+            }
       }
       ```
     - Response Error

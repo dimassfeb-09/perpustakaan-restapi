@@ -14,18 +14,20 @@
       | `category_id`     | `string` | **Required**. Category ID    | [Category ID](../category/CategoryGetById.md) |  
       | `stock`           | `int`    | **Required**. Stock          | None |
       | `products_status` | `string` | **Required**. Product Status | None |
+      | `img_url`         | `string` | **Required**. IMG Url        | None |
     - Response Body
       ```json
       {
           "code": 200,
           "status": "OK",
           "data": {
-              "id": "int",
-              "name": "string",
-              "category_id": "int",
-              "stock": "string",
-              "products_status": "string"
-        }
+            "id": 37,
+            "name": "Buku Kita",
+            "category_id": 6,
+            "stock": 10,
+            "products_status": "in_stock",
+            "img_url": "https://i.picsum.photos/id/237/200/300.jpg"
+          }
       }
       ```
     - Response Error
