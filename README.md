@@ -55,5 +55,15 @@ Untuk Header X-API-KEY kalian bisa isi valuenya: `RAHASIA`
 | `PUT` 	| [Here](/docs/book/BookPut.md) 		| **Update Data** 	|
 | `DELETE` 	| [Here](/docs/book/BookDelete.md) 		| **Delete Data** 	|
 
+## GuestBook API
+| METHOD 	| Documentation     				            | Description		|
+| :-------- 	| :------- 			            		    | :---------------	|
+| `GET`		| [Here](/docs/guestbook/GuestBookGetAll.md)	| **Get All**		|
+| `GET` 	| [Here](/docs/guestbook/GuestBookById.md) 	    | **Get By ID** 	|
+| `GET` 	| [Here](/docs/guestbook/GuestBookByUserId.md) 	| **Get By User ID**|
+| `POST` 	| [Here](/docs/guestbook/GuestBookPost.md) 		| **Add Data** 		|
+| `PUT` 	| [Here](/docs/guestbook/GuestBookPut.md) 		| **Update Data** 	|
+| `DELETE` 	| [Here](/docs/guestbook/GuestBookDelete.md) 	| **Delete Data** 	|
+
 ## Diagram Table Database
 <img src="https://i.ibb.co/QC7R6rH/image.png" height="400px" width="800px">
