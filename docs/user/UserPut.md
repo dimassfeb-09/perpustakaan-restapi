@@ -14,7 +14,7 @@
       | `username` | `string` | **Required**. Username |
       | `password` | `string` | **Required**. Password |
       | `email` | `string` | **Required**. Email |
-      | `level` | `string` | **Required**. Level |
+      | `level` | `string` | **Required**. Level `Mahasiswa/Staff`|
     - Response Body
       ```json
       {
