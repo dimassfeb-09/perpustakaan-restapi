@@ -1,21 +1,19 @@
 ## PUT Book
 - End Point URL: `/book/update/{bookId}`
     - Method: `PUT`
+    - Accept: `multipart/form-data`
     - Content-Type: `application/json`
-    - Accept: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |
       | `X-API-KEY` | `string` | **Required**. Your API key |
-    - Body:
-      ```json
-      {
-          "name": "string",
-          "category_id": "int",
-          "stock": "string",
-          "products_status": "string"
-      }
-      ```
+    - Post Form Body
+      | Key               | Type     | Description                  | Referred |
+      | :--------         | :------- | :-------------------------   | :-------- |
+      | `name`            | `string` | **Required**. Full Name      | None |
+      | `category_id`     | `string` | **Required**. Category ID    | [Category ID](../category/CategoryGetById.md) |  
+      | `stock`           | `int`    | **Required**. Stock          | None |
+      | `products_status` | `string` | **Required**. Product Status | None |
     - Response Body
       ```json
       {

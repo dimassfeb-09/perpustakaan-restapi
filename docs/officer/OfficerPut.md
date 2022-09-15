@@ -1,8 +1,8 @@
 ## PUT Officer
 - End Point URL: `/officer/update/{officerId}`
     - Method: `PUT`
+    - Accept: `multipart/form-data`
     - Content-Type: `application/json`
-    - Accept: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |

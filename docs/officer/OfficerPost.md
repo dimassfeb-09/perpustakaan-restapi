@@ -1,8 +1,8 @@
 ## POST Officer
 - End Point URL: `/officer/add`
     - Method: `POST`
+    - Accept: `multipart/form-data`
     - Content-Type: `application/json`
-    - Accept: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |

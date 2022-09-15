@@ -1,6 +1,7 @@
 ## GET Users
 - End Point URL: `/user`
     - Method: `GET`
+    - Content-Type: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |

@@ -1,8 +1,8 @@
 ## POST User Auth
 - End Point URL: `/user/login`
     - Method: `POST`
-    - Content-Type: `multipart/form-data`
     - Accept: `multipart/form-data`
+    - Content-Type: `application/json`
     - Header:
       | Key  	    | Value     | Type     | Description                |
       | :--------   | :----     | :------- | :------------------------- |

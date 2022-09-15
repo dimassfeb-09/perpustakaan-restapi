@@ -2,7 +2,6 @@
 - End Point URL: `/category`
     - Method: `GET`
     - Content-Type: `application/json`
-    - Accept: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |

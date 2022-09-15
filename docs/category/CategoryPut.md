@@ -1,18 +1,16 @@
 ## PUT Category
 - End Point URL: `/category/update/{categoryId}`
     - Method: `PUT`
+    - Accept: `multipart/form-data`
     - Content-Type: `application/json`
-    - Accept: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |
       | `X-API-KEY` | `string` | **Required**. Your API key |
-    - Body:
-      ```json
-      {
-          "name": "string"
-      }
-      ```
+    - Post Form Body:
+      | Key 	    | Type     | Description                | Referred |
+      | :-------- | :------- | :------------------------- | :------- |
+      | `name`    | `string` | **Required**. Full Name    | None     |
     - Response Body
       ```json
       {

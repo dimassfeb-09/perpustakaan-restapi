@@ -1,8 +1,8 @@
 ## POST User
 - End Point URL: `/user/add`
     - Method: `POST`
-    - Content-Type: `multipart/form-data`
     - Accept: `multipart/form-data`
+    - Content-Type: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |

@@ -1,8 +1,8 @@
 ## PUT User
 - End Point URL: `/user/update/{userId}`
     - Method: `PUT`
+    - Accept: `multipart/form-data`
     - Content-Type: `application/json`
-    - Accept: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |

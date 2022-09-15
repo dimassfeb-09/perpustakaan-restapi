@@ -2,7 +2,6 @@
 - End Point URL: `/category/delete/{categoryId}`
     - Method: `DELETE`
     - Content-Type: `application/json`
-    - Accept: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |

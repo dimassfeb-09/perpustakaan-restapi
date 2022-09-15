@@ -2,7 +2,6 @@
 - End Point URL: `/book/{bookId}`
     - Method: `GET`
     - Content-Type: `application/json`
-    - Accept: `application/json`
     - Header:
       | Header 	| Type     | Description                |
       | :-------- | :------- | :------------------------- |
