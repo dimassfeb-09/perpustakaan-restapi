@@ -8,13 +8,13 @@
       | :-------- | :------- | :------------------------- |
       | `X-API-KEY` | `string` | **Required**. Your API key |
     - Post Form:
-    | Key 	| Value     | Description                |
-    | :-------- | :------- | :------------------------- |
-    | `name` | `string` | **Required**. Full Name |
-    | `username` | `string` | **Required**. Username |
-    | `password` | `string` | **Required**. Password |
-    | `email` | `string` | **Required**. Email |
-    | `level` | `string` | **Required**. Level |
+      | Key 	    | Value     | Description                |
+      | :-------- | :------- | :------------------------- |
+      | `name` | `string` | **Required**. Full Name |
+      | `username` | `string` | **Required**. Username |
+      | `password` | `string` | **Required**. Password |
+      | `email` | `string` | **Required**. Email |
+      | `level` | `string` | **Required**. Level |
     - Response Body
       ```json
       {
