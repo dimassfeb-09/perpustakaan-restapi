@@ -65,4 +65,4 @@ Untuk Header X-API-KEY kalian bisa isi valuenya: `RAHASIA`
 | `DELETE` 	| [Here](/docs/guestbook/GuestBookDelete.md) 	| **Delete Data** 	|
 
 ## Diagram Table Database
-<img src="https://i.ibb.co/QC7R6rH/image.png" height="400px" width="800px">
+<img src="https://i.ibb.co/jyW5jpp/image.png" height="400px" width="800px">
