@@ -12,7 +12,6 @@ Untuk Header X-API-KEY kalian bisa isi valuenya: `RAHASIA`
 
 # Note:
 - Soal API KEY itu belum dibuat yg lebih privacy karena masih belajar. So kalo ada v2 nya akan dikasih tau
-- Nanti End Point GuestBook/Pinjam buku akan dibuat secepatnya
 
 # API Documentation
 
